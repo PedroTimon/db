@@ -92,20 +92,3 @@ Removidos: 1
 ✅ Demonstração finalizada.
 
 👨‍💻 Projeto desenvolvido para fins didáticos (atividade prática de CRUD com PyMongo).
-
-
----
-
-## Passos pra subir no GitHub
-
-# 1. Criar repositório local
-git init
-git add .
-git commit -m "CRUD MongoDB com PyMongo"
-
-# 2. Conectar ao GitHub (substitua pelo seu usuário)
-git remote add origin https://github.com/SEU_USUARIO/crud-mongodb-python.git
-
-# 3. Enviar
-git branch -M main
-git push -u origin main
